@@ -10,7 +10,7 @@ I am Karthikeya, and you have landed on my personal website. I am a
 recent Master's graduate from the Technical University of Munich, where
 I majored in Computational Science and Engineering. Towards the end of 
 my M.Sc, I shifted my focus to (Computational) Cognitive Science, and 
-I am happy my nomadic-academic rovings have ended! I am home! :)
+I am happy my academic rovings have ended. I am home! :)
 
 Currently, I am employed at the Max Planck Institute for 
 Psycholinguistics in Nijmegen at the LaCNS lab, and work with Andrea 
