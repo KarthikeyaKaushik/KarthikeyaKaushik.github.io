@@ -18,11 +18,11 @@ E Martin on computational modelling of language comprehension.
 Starting in January 2021, I will work on revamping DORA [Doumas et al. 2008]
 as a model of language. For my Master's thesis, I worked on combining Category
 theorertic and linguistic concepts to build an incremental model of language
-comprehension. Feel free to go through my thesis here - . In it, I used
-DORA [Doumas et al. 2008] to map formalism and possible implementation.
+comprehension. Feel free to go through my thesis [here](https://arxiv.org/abs/2012.02038) . 
+In it, I used DORA [Doumas et al. 2008] to map formalism and possible implementation.
 It was personally quite thrilling to be able to access something as 
 personal as language, and put into mathematical terms, what "hierarchy"
-means formally! Also, I work on RNNs, and I have put up links to
+means, formally! Also, I work on RNNs, and I have put up links to
 these projects on my github page. 
 
 Since late 2019, I work (yes, I like cogsci enough to take on two jobs) 
