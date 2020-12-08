@@ -9,8 +9,10 @@ Namaskara!
 I am Karthikeya, and you have landed on my personal website. I am a 
 recent Master's graduate from the Technical University of Munich, where
 I majored in Computational Science and Engineering. Towards the end of 
-my M.Sc, I shifted my focus to (Computational) Cognitive Science, and 
-I am happy my academic rovings have ended. I am home! :)
+my M.Sc, I shifted my focus to (Computational) Cognitive Science, and
+ my academic rovings have ended. I am home! :)
+ 
+Here is the link to my [CV](CV-karthikeyakaushik.pdf).
 
 Currently, I am employed at the Max Planck Institute for 
 Psycholinguistics in Nijmegen at the LaCNS lab, and work with Andrea 
@@ -35,11 +37,14 @@ enjoy visualising networks and will put up links to ongoing work shortly.
 
 In my spare time, I enjoy reading non fiction works on philosophy, 
 neuroscience, psychology, and am currently getting into anarchist philosophy.
-I discovered the joys of the zettelkasten (..) early this year, and quite
-enjoy having conversations with my memories! Here is the link to my personal notes -  
+I discovered the joys of the [zettelkasten](https://zettelkasten.de/) early this year, and quite
+enjoy having conversations with my memories! In my current personal project, 
+I am making my zettlekasten more interesting using NLP techniques. 
 I picked up Deutsch and boxing in the two years that I spent in Munich, 
-and realised I would probably have been a boxer if not for a cognitive scientist, 
-and that scares me a bit. I dream of getting a black belt in BJJ in my lifetime!  
+and want to restart training after Covid. I also dream of a black 
+belt in BJJ (Love the "flow" of martial arts). A trans 
+Himalayan trek, from Assam in India to Afghanistan is also a personal
+goal!
 
    
 ---
