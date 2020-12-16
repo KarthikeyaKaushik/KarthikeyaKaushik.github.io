@@ -32,8 +32,8 @@ at the CVBE and Crowd Cognition lab at the LMU, Munich, where I focus
 on Computational Social Science. Here, along with Pantelis P. Analytis, 
 Bahador Bahrami, Ophelia Deroy and Stefan Herzog, I investigate 
 social networks in matters of taste. Specifically, we look at the 
-role played by critics and amateurs in recommender systems. I really 
-enjoy visualising networks and will put up links to ongoing work shortly.
+role played by critics and amateurs in recommender systems. 
+[Here](pages/social_network.md) is a short description.
 
 In my spare time, I enjoy reading non fiction works on philosophy, 
 neuroscience, psychology, and am currently getting into anarchist philosophy.
