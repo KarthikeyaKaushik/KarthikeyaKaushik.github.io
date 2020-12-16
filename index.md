@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Overview
 tagline: Who I am and what I do
 description: Personal website
